@@ -1,4 +1,4 @@
-# Group Post Reoprt in Telegram
+# Group Post Report in Telegram
 Note: This code can work on Telegram Web Version.
 
 1. Login in your telegram account in Firefox or Chrome via this link: https://web.telegram.org
